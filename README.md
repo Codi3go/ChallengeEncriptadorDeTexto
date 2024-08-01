@@ -1,4 +1,4 @@
-# ![Icono Encriptador](https://cdn-icons-png.flaticon.com/512/3659/3659743.png) README - Encriptador de Texto
+# ![Icono Encriptador](./logo.png) README - Encriptador de Texto
 
 ## Descripción del Proyecto
 
@@ -22,6 +22,8 @@ Si necesitas ayuda con el uso del **Encriptador de Texto**, puedes ponerte en co
 
 ## Autores del Proyecto
 
-DIEGO ANDRÉS HOYOS OSORIO
-www.linkedin.com/in/hoyosdiegoandres
+- **DIEGO ANDRÉS HOYOS OSORIO
+- **www.linkedin.com/in/hoyosdiegoandres
+
+
 
