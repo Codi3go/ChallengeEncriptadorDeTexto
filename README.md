@@ -23,6 +23,5 @@ Si necesitas ayuda con el uso del **Encriptador de Texto**, puedes ponerte en co
 ## Autores del Proyecto
 
 DIEGO ANDRÉS HOYOS OSORIO
-
-[www.linkedin.com/in/hoyosdiegoandres](#)
+(#)www.linkedin.com/in/hoyosdiegoandres
 
