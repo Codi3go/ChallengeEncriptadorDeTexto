@@ -1,4 +1,4 @@
-# ![Icono Encriptador](./logo.png) 
+(./logo.png) 
 README - Encriptador de Texto
 
 ## Descripción del Proyecto
